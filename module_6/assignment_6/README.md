@@ -67,9 +67,9 @@ Highlight some quotes from this section to include in your final deliverable.
 
 ### Step Four: Make it Aesthetic 💅
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Consider using the Tech-Moms logo 
-- [ ] Use Tech-Moms’ brand colors
+- [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [x] Consider using the Tech-Moms logo 
+- [x] Use Tech-Moms’ brand colors
 
 ### Step Five: Ship it! 
 
